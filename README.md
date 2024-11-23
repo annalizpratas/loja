@@ -1,2 +1,2 @@
-# product-catalog-provisional
+# loja
 rebuild
